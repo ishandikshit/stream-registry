@@ -14,4 +14,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Deleted
 - Description of change
 
-[Milestone]: https://github.com/HomeAway/stream-registry/<compare-link>
+### Fixed
+- Description of change
+
+
+## [0.3.1] - 2018-11-28
+### Fixed
+- Minor MkDocs fixes
+
+
+[0.3.1]: https://github.com/homeaway/stream-registry/compare/master...ishandikshit:master
