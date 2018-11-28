@@ -10,18 +10,13 @@ A quick version of this is to download, install and start
 
 Build stream-registry
 ---
-```
-./stream-registry.sh build
-```
-
+`./stream-registry.sh build`
 
 Start stream-registry
 ---
-```
-./stream-registry.sh run
-```
+`./stream-registry.sh run`
 
-* check that your application is running enter url `http://localhost:8080/swagger`
+* Check that your application is running enter url `http://localhost:8080/swagger`
 
 Run Unit Test , and Jacoco Code Coverage.
 ---
